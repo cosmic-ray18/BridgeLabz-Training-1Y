@@ -1,3 +1,5 @@
+package com.gla.wrapper_classes;
+
 import java.util.ArrayList;
 
 class Auto_unboxsum{
